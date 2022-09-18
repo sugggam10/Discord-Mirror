@@ -1,0 +1,12 @@
+{
+  "token": "<DISCORD_ACCOUNT_TOKEN>",
+  "webhooks": [
+    {
+      "token": "<WEBHOOK_TOKEN>",
+      "id": "<WEBHOOK_ID>"
+    }
+  ],
+  "channel_ids": [
+    "<CHANNEL_ID>"
+  ]
+}
